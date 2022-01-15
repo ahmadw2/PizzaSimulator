@@ -1,7 +1,7 @@
 @author Wajeeha Ahmad
 @version August 16th, 2019
 
-Click the run button on top to run the simulator.
+Run "java PizzaManager" in the console.
 
 The menu will appear, the user must enter the letter 
 in the parentheses to perform the following actions.
